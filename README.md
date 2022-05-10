@@ -1,9 +1,9 @@
 # ASP.NET-web-site-projesi
-## Icindekiler
+## İçindekiler
 * Ana-Sayfa
-* OzGecmis Sayfasi
-* 5-6 ilin tanitildigi sayfa(gezi)
-* Dizi-Film sayfasi
-* Hobi sayfasi
-* Iletisim sayfasi
-### BU PROJE ODEV AMACIYLA YAPILMISTIR.
+* Özgeçmiş Sayfası
+* 5-6 ilin Tanıtıldığı sayfa(Gezi)
+* Dizi-Film Sayfası
+* Hobi sayfası
+* İletişim Sayfası
+### BU PROJE ODEV AMACIYLA YAPILMIŞTIR.
